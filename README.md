@@ -1,5 +1,6 @@
 # Project-Sign-Speak
 Created by Ethan Robson, Grayson Parker, and Alain Kanadjian
+
 Sign Speak is a wearable glove that will recognize sign language gestures and output the
 corresponding letter and visual to a terminal display. This system architecture consists of two
 main components: a wearable glove hardware interface and an output terminal display. The sign
